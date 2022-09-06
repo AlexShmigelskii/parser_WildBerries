@@ -1,0 +1,902 @@
+[
+    {
+        "product_url": "https://www.wildberries.ru/catalog/96065527/detail.aspx?targetUrl=XS",
+        "product_article": "96065527",
+        "product_cost": "4 500 ₽",
+        "amount_review": "3",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/211161",
+        "bought": "более 5 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/92136736/detail.aspx?targetUrl=XS",
+        "product_article": "92136736",
+        "product_cost": "1 167 ₽",
+        "amount_review": "107",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/857805",
+        "bought": "менее 5 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/75544783/detail.aspx?targetUrl=XS",
+        "product_article": "75544783",
+        "product_cost": "2 452 ₽",
+        "amount_review": "216",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/443743",
+        "bought": "более 400 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/39397785/detail.aspx?targetUrl=XS",
+        "product_article": "39397785",
+        "product_cost": "2 700 ₽",
+        "amount_review": "65",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/285046",
+        "bought": "более 900 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/40571615/detail.aspx?targetUrl=XS",
+        "product_article": "40571615",
+        "product_cost": "2 455 ₽",
+        "amount_review": "567",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/45771",
+        "bought": "более 700 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/78291222/detail.aspx?targetUrl=XS",
+        "product_article": "78291222",
+        "product_cost": "1 302 ₽",
+        "amount_review": "49",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/773960",
+        "bought": "более 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/63986958/detail.aspx?targetUrl=XS",
+        "product_article": "63986958",
+        "product_cost": "3 699 ₽",
+        "amount_review": "25",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/606424",
+        "bought": "более 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/78610082/detail.aspx?targetUrl=XS",
+        "product_article": "78610082",
+        "product_cost": "1 978 ₽",
+        "amount_review": "30",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/151112",
+        "bought": "более 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/46408180/detail.aspx?targetUrl=XS",
+        "product_article": "46408180",
+        "product_cost": "1 680 ₽",
+        "amount_review": "29",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/338714",
+        "bought": "более 900 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/53845169/detail.aspx?targetUrl=XS",
+        "product_article": "53845169",
+        "product_cost": "5 642 ₽",
+        "amount_review": "27",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/409778",
+        "bought": "более 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/90850174/detail.aspx?targetUrl=XS",
+        "product_article": "90850174",
+        "product_cost": "1 006 ₽",
+        "amount_review": "160",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/857805",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/110673162/detail.aspx?targetUrl=XS",
+        "product_article": "110673162",
+        "product_cost": "2 200 ₽",
+        "amount_review": "515",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/72046",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/17272714/detail.aspx?targetUrl=XS",
+        "product_article": "17272714",
+        "product_cost": "1 029 ₽",
+        "amount_review": "1 486",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/45771",
+        "bought": "более 4 900 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/66045781/detail.aspx?targetUrl=XS",
+        "product_article": "66045781",
+        "product_cost": "1 249 ₽",
+        "amount_review": "46",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/91566",
+        "bought": "более 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/78988506/detail.aspx?targetUrl=XS",
+        "product_article": "78988506",
+        "product_cost": "1 677 ₽",
+        "amount_review": "77",
+        "stars": "5",
+        "merchant": null,
+        "bought": "более 800 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/36466470/detail.aspx?targetUrl=XS",
+        "product_article": "36466470",
+        "product_cost": "639 ₽",
+        "amount_review": "1 063",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/78090",
+        "bought": "более 2 500 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/27037992/detail.aspx?targetUrl=XS",
+        "product_article": "27037992",
+        "product_cost": "1 656 ₽",
+        "amount_review": "123",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/91051",
+        "bought": "более 1 800 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/93298599/detail.aspx?targetUrl=XS",
+        "product_article": "93298599",
+        "product_cost": "2 825 ₽",
+        "amount_review": "0",
+        "stars": "0",
+        "merchant": "https://www.wildberries.ru/seller/76200",
+        "bought": "более 5 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/68500506/detail.aspx?targetUrl=XS",
+        "product_article": "68500506",
+        "product_cost": "4 222 ₽",
+        "amount_review": "12",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/572095",
+        "bought": "более 70 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/46515295/detail.aspx?targetUrl=XS",
+        "product_article": "46515295",
+        "product_cost": "1 679 ₽",
+        "amount_review": "25",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/417180",
+        "bought": "более 300 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/66333708/detail.aspx?targetUrl=XS",
+        "product_article": "66333708",
+        "product_cost": "1 071 ₽",
+        "amount_review": "128",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/290982",
+        "bought": "более 2 900 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/16240955/detail.aspx?targetUrl=XS",
+        "product_article": "16240955",
+        "product_cost": "4 600 ₽",
+        "amount_review": "155",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/92842",
+        "bought": "более 1 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/92145771/detail.aspx?targetUrl=XS",
+        "product_article": "92145771",
+        "product_cost": "900 ₽",
+        "amount_review": "199",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/857805",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/84949406/detail.aspx?targetUrl=XS",
+        "product_article": "84949406",
+        "product_cost": "2 920 ₽",
+        "amount_review": "32",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/613374",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/91250662/detail.aspx?targetUrl=XS",
+        "product_article": "91250662",
+        "product_cost": "1 999 ₽",
+        "amount_review": "34",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/102524",
+        "bought": "более 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/86511524/detail.aspx?targetUrl=XS",
+        "product_article": "86511524",
+        "product_cost": "971 ₽",
+        "amount_review": "67",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/112658",
+        "bought": "более 400 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/54336506/detail.aspx?targetUrl=XS",
+        "product_article": "54336506",
+        "product_cost": "740 ₽",
+        "amount_review": "36",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/506977",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/51507559/detail.aspx?targetUrl=XS",
+        "product_article": "51507559",
+        "product_cost": "1 190 ₽",
+        "amount_review": "87",
+        "stars": "5",
+        "merchant": null,
+        "bought": "более 1 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/64585247/detail.aspx?targetUrl=XS",
+        "product_article": "64585247",
+        "product_cost": "1 689 ₽",
+        "amount_review": "23",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/198868",
+        "bought": "более 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/17807409/detail.aspx?targetUrl=XS",
+        "product_article": "17807409",
+        "product_cost": "398 ₽",
+        "amount_review": "1 356",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/82960",
+        "bought": "более 13 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/37698801/detail.aspx?targetUrl=XS",
+        "product_article": "37698801",
+        "product_cost": "1 892 ₽",
+        "amount_review": "59",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/178326",
+        "bought": "более 1 000 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/47205932/detail.aspx?targetUrl=XS",
+        "product_article": "47205932",
+        "product_cost": "1 898 ₽",
+        "amount_review": "86",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/211306",
+        "bought": "более 1 400 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/51756738/detail.aspx?targetUrl=XS",
+        "product_article": "51756738",
+        "product_cost": "2 104 ₽",
+        "amount_review": "69",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/480627",
+        "bought": "более 1 000 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/27899612/detail.aspx?targetUrl=XS",
+        "product_article": "27899612",
+        "product_cost": "1 029 ₽",
+        "amount_review": "1 486",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/45771",
+        "bought": "более 1 800 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/11879075/detail.aspx?targetUrl=XS",
+        "product_article": "11879075",
+        "product_cost": "4 226 ₽",
+        "amount_review": "289",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/52614",
+        "bought": "более 5 900 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/19025386/detail.aspx?targetUrl=XS",
+        "product_article": "19025386",
+        "product_cost": "1 036 ₽",
+        "amount_review": "419",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/130962",
+        "bought": "более 3 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/94340156/detail.aspx?targetUrl=XS",
+        "product_article": "94340156",
+        "product_cost": "1 800 ₽",
+        "amount_review": "31",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/628048",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/28644654/detail.aspx?targetUrl=XS",
+        "product_article": "28644654",
+        "product_cost": "523 ₽",
+        "amount_review": "145",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/45771",
+        "bought": "более 1 000 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/16020611/detail.aspx?targetUrl=XS",
+        "product_article": "16020611",
+        "product_cost": "3 102 ₽",
+        "amount_review": "64",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/45771",
+        "bought": "более 1 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/44474985/detail.aspx?targetUrl=XS",
+        "product_article": "44474985",
+        "product_cost": "1 702 ₽",
+        "amount_review": "25",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/369409",
+        "bought": "более 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/26417570/detail.aspx?targetUrl=XS",
+        "product_article": "26417570",
+        "product_cost": "699 ₽",
+        "amount_review": "177",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/145606",
+        "bought": "более 2 500 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/32883358/detail.aspx?targetUrl=XS",
+        "product_article": "32883358",
+        "product_cost": "1 620 ₽",
+        "amount_review": "95",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/112658",
+        "bought": "более 800 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/18150535/detail.aspx?targetUrl=XS",
+        "product_article": "18150535",
+        "product_cost": "3 381 ₽",
+        "amount_review": "97",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/57950",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/110635644/detail.aspx?targetUrl=XS",
+        "product_article": "110635644",
+        "product_cost": "2 790 ₽",
+        "amount_review": "7",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/728149",
+        "bought": "более 50 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/25873845/detail.aspx?targetUrl=XS",
+        "product_article": "25873845",
+        "product_cost": "7 838 ₽",
+        "amount_review": "2",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/55852",
+        "bought": "более 30 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/33411891/detail.aspx?targetUrl=XS",
+        "product_article": "33411891",
+        "product_cost": "1 437 ₽",
+        "amount_review": "21",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/212237",
+        "bought": "более 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/110467381/detail.aspx?targetUrl=XS",
+        "product_article": "110467381",
+        "product_cost": "2 790 ₽",
+        "amount_review": "9",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/728149",
+        "bought": "более 60 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/94347421/detail.aspx?targetUrl=XS",
+        "product_article": "94347421",
+        "product_cost": "2 400 ₽",
+        "amount_review": "33",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/628048",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/60888196/detail.aspx?targetUrl=XS",
+        "product_article": "60888196",
+        "product_cost": "4 779 ₽",
+        "amount_review": "12",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/229270",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/33145837/detail.aspx?targetUrl=XS",
+        "product_article": "33145837",
+        "product_cost": "1 656 ₽",
+        "amount_review": "68",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/212237",
+        "bought": "более 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/28067702/detail.aspx?targetUrl=XS",
+        "product_article": "28067702",
+        "product_cost": "1 299 ₽",
+        "amount_review": "91",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/206229",
+        "bought": "более 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/92269000/detail.aspx?targetUrl=XS",
+        "product_article": "92269000",
+        "product_cost": "2 598 ₽",
+        "amount_review": "73",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/102524",
+        "bought": "более 60 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/86511525/detail.aspx?targetUrl=XS",
+        "product_article": "86511525",
+        "product_cost": "971 ₽",
+        "amount_review": "67",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/112658",
+        "bought": "более 300 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/94344787/detail.aspx?targetUrl=XS",
+        "product_article": "94344787",
+        "product_cost": "1 920 ₽",
+        "amount_review": "28",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/628048",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/18838946/detail.aspx?targetUrl=XS",
+        "product_article": "18838946",
+        "product_cost": "1 037 ₽",
+        "amount_review": "419",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/130962",
+        "bought": "более 2 500 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/44318814/detail.aspx?targetUrl=XS",
+        "product_article": "44318814",
+        "product_cost": "1 872 ₽",
+        "amount_review": "110",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/78338",
+        "bought": "более 1 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/76579334/detail.aspx?targetUrl=XS",
+        "product_article": "76579334",
+        "product_cost": "1 875 ₽",
+        "amount_review": "35",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/347727",
+        "bought": "более 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/83333104/detail.aspx?targetUrl=XS",
+        "product_article": "83333104",
+        "product_cost": "2 450 ₽",
+        "amount_review": "19",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/98560",
+        "bought": "более 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/15055706/detail.aspx?targetUrl=XS",
+        "product_article": "15055706",
+        "product_cost": "3 760 ₽",
+        "amount_review": "85",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/56507",
+        "bought": "более 1 000 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/64834786/detail.aspx?targetUrl=XS",
+        "product_article": "64834786",
+        "product_cost": "1 135 ₽",
+        "amount_review": "74",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/413587",
+        "bought": "более 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/97017583/detail.aspx?targetUrl=XS",
+        "product_article": "97017583",
+        "product_cost": "6 000 ₽",
+        "amount_review": "1",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/696306",
+        "bought": "менее 5 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/45186704/detail.aspx?targetUrl=XS",
+        "product_article": "45186704",
+        "product_cost": "2 030 ₽",
+        "amount_review": "214",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/78338",
+        "bought": "более 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/70719029/detail.aspx?targetUrl=XS",
+        "product_article": "70719029",
+        "product_cost": "1 953 ₽",
+        "amount_review": "54",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/666294",
+        "bought": "более 300 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/81557595/detail.aspx?targetUrl=XS",
+        "product_article": "81557595",
+        "product_cost": "949 ₽",
+        "amount_review": "216",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/82960",
+        "bought": "более 400 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/15055704/detail.aspx?targetUrl=XS",
+        "product_article": "15055704",
+        "product_cost": "3 760 ₽",
+        "amount_review": "85",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/56507",
+        "bought": "более 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/91582570/detail.aspx?targetUrl=XS",
+        "product_article": "91582570",
+        "product_cost": "2 998 ₽",
+        "amount_review": "62",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/102524",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/54420646/detail.aspx?targetUrl=XS",
+        "product_article": "54420646",
+        "product_cost": "740 ₽",
+        "amount_review": "36",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/506977",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/64585920/detail.aspx?targetUrl=XS",
+        "product_article": "64585920",
+        "product_cost": "1 543 ₽",
+        "amount_review": "37",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/198868",
+        "bought": "более 300 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/64834783/detail.aspx?targetUrl=XS",
+        "product_article": "64834783",
+        "product_cost": "1 047 ₽",
+        "amount_review": "109",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/413587",
+        "bought": "более 900 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/32060969/detail.aspx?targetUrl=XS",
+        "product_article": "32060969",
+        "product_cost": "3 058 ₽",
+        "amount_review": "15",
+        "stars": "5",
+        "merchant": null,
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/68043163/detail.aspx?targetUrl=XS",
+        "product_article": "68043163",
+        "product_cost": "15 895 ₽",
+        "amount_review": "1",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/52614",
+        "bought": "более 5 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/27457780/detail.aspx?targetUrl=XS",
+        "product_article": "27457780",
+        "product_cost": "2 635 ₽",
+        "amount_review": "37",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/83501",
+        "bought": "более 500 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/18312989/detail.aspx?targetUrl=XS",
+        "product_article": "18312989",
+        "product_cost": "1 221 ₽",
+        "amount_review": "92",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/82495",
+        "bought": "более 1 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/28644920/detail.aspx?targetUrl=XS",
+        "product_article": "28644920",
+        "product_cost": "2 226 ₽",
+        "amount_review": "98",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/45771",
+        "bought": "более 1 400 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/15553952/detail.aspx?targetUrl=XS",
+        "product_article": "15553952",
+        "product_cost": "1 176 ₽",
+        "amount_review": "183",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/45771",
+        "bought": "более 2 600 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/112656041/detail.aspx?targetUrl=XS",
+        "product_article": "112656041",
+        "product_cost": "749 ₽",
+        "amount_review": "66",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/688138",
+        "bought": "более 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/91941473/detail.aspx?targetUrl=XS",
+        "product_article": "91941473",
+        "product_cost": "1 911 ₽",
+        "amount_review": "2",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/831198",
+        "bought": "более 60 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/47439498/detail.aspx?targetUrl=XS",
+        "product_article": "47439498",
+        "product_cost": "1 725 ₽",
+        "amount_review": "47",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/203504",
+        "bought": "более 400 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/68043418/detail.aspx?targetUrl=XS",
+        "product_article": "68043418",
+        "product_cost": "18 785 ₽",
+        "amount_review": "1",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/52614",
+        "bought": "более 5 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/27834740/detail.aspx?targetUrl=XS",
+        "product_article": "27834740",
+        "product_cost": "441 ₽",
+        "amount_review": "757",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/45771",
+        "bought": "более 3 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/44952669/detail.aspx?targetUrl=XS",
+        "product_article": "44952669",
+        "product_cost": "3 250 ₽",
+        "amount_review": "5",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/284821",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/28516796/detail.aspx?targetUrl=XS",
+        "product_article": "28516796",
+        "product_cost": "1 260 ₽",
+        "amount_review": "222",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/73386",
+        "bought": "более 2 700 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/46407883/detail.aspx?targetUrl=XS",
+        "product_article": "46407883",
+        "product_cost": "1 440 ₽",
+        "amount_review": "40",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/338714",
+        "bought": "более 300 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/51660093/detail.aspx?targetUrl=XS",
+        "product_article": "51660093",
+        "product_cost": "1 772 ₽",
+        "amount_review": "51",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/286977",
+        "bought": "более 1 000 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/19345977/detail.aspx?targetUrl=XS",
+        "product_article": "19345977",
+        "product_cost": "1 350 ₽",
+        "amount_review": "173",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/78338",
+        "bought": "более 900 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/92136737/detail.aspx?targetUrl=XS",
+        "product_article": "92136737",
+        "product_cost": "1 167 ₽",
+        "amount_review": "107",
+        "stars": "5",
+        "merchant": null,
+        "bought": "более 40 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/44920994/detail.aspx?targetUrl=XS",
+        "product_article": "44920994",
+        "product_cost": "1 090 ₽",
+        "amount_review": "76",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/131240",
+        "bought": "более 800 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/27650162/detail.aspx?targetUrl=XS",
+        "product_article": "27650162",
+        "product_cost": "3 906 ₽",
+        "amount_review": "33",
+        "stars": "4",
+        "merchant": "https://www.wildberries.ru/seller/164997",
+        "bought": "более 300 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/44390379/detail.aspx?targetUrl=XS",
+        "product_article": "44390379",
+        "product_cost": "1 460 ₽",
+        "amount_review": "30",
+        "stars": "5",
+        "merchant": null,
+        "bought": "более 300 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/34156412/detail.aspx?targetUrl=XS",
+        "product_article": "34156412",
+        "product_cost": "1 100 ₽",
+        "amount_review": "44",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/112658",
+        "bought": "более 300 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/17807691/detail.aspx?targetUrl=XS",
+        "product_article": "17807691",
+        "product_cost": "850 ₽",
+        "amount_review": "239",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/82960",
+        "bought": "более 1 300 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/115454595/detail.aspx?targetUrl=XS",
+        "product_article": "115454595",
+        "product_cost": "1 011 ₽",
+        "amount_review": "27",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/443743",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/50110050/detail.aspx?targetUrl=XS",
+        "product_article": "50110050",
+        "product_cost": "3 147 ₽",
+        "amount_review": "62",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/63028",
+        "bought": "более 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/90136659/detail.aspx?targetUrl=XS",
+        "product_article": "90136659",
+        "product_cost": "2 387 ₽",
+        "amount_review": "6",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/820922",
+        "bought": "более 30 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/50139296/detail.aspx?targetUrl=XS",
+        "product_article": "50139296",
+        "product_cost": "850 ₽",
+        "amount_review": "81",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/58745",
+        "bought": "более 900 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/29155752/detail.aspx?targetUrl=XS",
+        "product_article": "29155752",
+        "product_cost": "949 ₽",
+        "amount_review": "216",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/82960",
+        "bought": "более 3 200 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/94352817/detail.aspx?targetUrl=XS",
+        "product_article": "94352817",
+        "product_cost": "2 400 ₽",
+        "amount_review": "5",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/907562",
+        "bought": "более 5 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/92315699/detail.aspx?targetUrl=XS",
+        "product_article": "92315699",
+        "product_cost": "3 115 ₽",
+        "amount_review": "1 006",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/215902",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/28281671/detail.aspx?targetUrl=XS",
+        "product_article": "28281671",
+        "product_cost": "4 029 ₽",
+        "amount_review": "37",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/56507",
+        "bought": "более 100 раз"
+    },
+    {
+        "product_url": "https://www.wildberries.ru/catalog/15883880/detail.aspx?targetUrl=XS",
+        "product_article": "15883880",
+        "product_cost": "2 732 ₽",
+        "amount_review": "567",
+        "stars": "5",
+        "merchant": "https://www.wildberries.ru/seller/56507",
+        "bought": "более 1 100 раз"
+    }
+]
